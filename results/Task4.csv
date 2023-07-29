@@ -1,0 +1,60 @@
+EmpID,Employee_Name,Salary,Position,Status
+10194,"Andreola, Colby",95660,"Software Engineer",Active
+10012,"Barbossa, Hector",92328,"Data Analyst",Active
+10081,"Boutwell, Bonalyn",106367,"Sr. Accountant",Active
+10150,"Cady, Max ",77692,"Software Engineering Manager",Active
+10001,"Candie, Calvin",72640,"Production Manager",Active
+10085,"Carabbio, Judith",93396,"Software Engineer",Active
+10082,"Carr, Claudia  N",100031,"Sr. DBA",Active
+10040,"Carter, Michelle ",71860,"Area Sales Manager",Active
+10108,"Champaigne, Brian",110929,"BI Director",Active
+10019,"Corleone, Vito",170500,"Director of Operations",Active
+10193,"Costello, Frank",83552,"Data Analyst",Active
+10083,"Cross, Noah",92329,"Sr. Network Engineer",Active
+10212,"Daniele, Ann  ",85028,"Sr. Network Engineer",Active
+10155,"Del Bosque, Keyla",101199,"Software Engineer",Active
+10197,"DeVito, Tommy",96820,"BI Developer",Active
+10028,"Dougall, Eric",138888,"IT Manager",Active
+10006,"Driver, Elle",74241,"Area Sales Manager",Active
+10105,"Dunn, Amy  ",75188,"Production Manager",Active
+10263,"Faller, Megan ",71776,"Production Technician II",Active
+10015,"Foss, Jason",178000,"IT Director",Active
+10080,"Foster-Baker, Amy",99351,"Sr. Accountant",Active
+10228,"Goeth, Amon",74679,"IT Support",Active
+10234,"Gruber, Hans",99020,"BI Developer",Active
+10112,"Horton, Jayne",97999,"Database Administrator",Active
+10272,"Houlihan, Debra",180000,"Director of Sales",Active
+10156,"Johnson, Noelle ",105700,"Database Administrator",Active
+10089,"King, Janet",250000,"President & CEO",Active
+10165,"Kreuger, Freddy",71339,"Area Sales Manager",Active
+10113,"Lajiri,  Jyoti",93206,"Sr. Network Engineer",Active
+10232,"Le, Binh",81584,"Senior BI Developer",Active
+10134,"LeBlanc, Brandon  R",93046,"Shared Services Manager",Active
+10134,"LeBlanc, Brandon  R",93046,"Software Engineer",Active
+10017,"Liebig, Ketsia",77915,"Production Manager",Active
+10035,"Lunquist, Lisa",73330,"Production Technician II",Active
+10110,"Martin, Sandra",105688,"Software Engineer",Active
+10116,"Miller, Brannon",83667,"Production Manager",Active
+10288,"Monroe, Peter",157000,"IT Manager",Active
+10025,"Monterro, Luisa",72460,"Production Technician II",Active
+10223,"Moran, Patrick",72106,"Production Technician II",Active
+10120,"Moumanil, Maliki ",74417,"Production Technician II",Active
+10079,"Navathe, Kurt",87921,"Senior BI Developer",Active
+10217,"Petingill, Shana  ",74226,"Production Technician II",Active
+10016,"Petrowsky, Thelma",93554,"Data Analyst",Active
+10239,"Rachael, Maggie",95920,"BI Developer",Active
+10162,"Roby, Lori ",89883,"Data Analyst",Active
+10086,"Roper, Katie",150290,"Data Architect",Active
+10198,"Roup,Simon",140920,"IT Manager",Active
+10126,"Saada, Adell",86214,"Software Engineer",Active
+10178,"Simard, Kramer",87826,"Data Analyst",Active
+10291,"Smith, John",72992,"Sales Manager",Active
+10180,"Soze, Keyser",87565,"Sr. Network Engineer",Active
+10024,"Szabo, Andrew",92989,"Software Engineer",Active
+10173,"Tannen, Biff",90100,"BI Developer",Active
+10045,"Turpin, Jumil",76029,"Network Engineer",Active
+10144,"Vega, Vincent",88976,"Production Manager",Active
+10172,"Wang, Charlie",84903,"Senior BI Developer",Active
+10127,"Warfield, Sarah",107226,"Sr. Network Engineer",Active
+10010,"Zamora, Jennifer",220450,CIO,Active
+10043,"Zhou, Julia",89292,"Data Analyst",Active

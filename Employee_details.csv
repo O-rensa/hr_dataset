@@ -1,0 +1,312 @@
+EmpID,Employee_Name,MaritalStatusID,GenderID,Salary,Termd,PositionID,State,DOB,DateofHire,DateofTermination,Department,ManagerID,PerformanceScore,EngagementSurvey
+10026,"Adinolfi, Wilson  K",0,1,62506,0,19,MA,30507,40729,,Production       ,22,Exceeds,4.6
+10084,"Ait Sidi, Karthikeyan   ",1,1,104437,1,27,MA,27519,42093,42537,IT/IS,4,Fully Meets,4.96
+10196,"Akinkuolie, Sarah",1,0,64955,1,20,MA,32405,40729,41176,Production       ,20,Fully Meets,3.02
+10088,"Alagbe,Trina",1,0,64991,0,19,MA,32413,39454,,Production       ,16,Fully Meets,4.84
+10069,"Anderson, Carol ",2,0,50825,1,19,MA,32759,40735,42619,Production       ,39,Fully Meets,5
+10002,"Anderson, Linda  ",0,0,57568,0,19,MA,28267,40917,,Production       ,11,Exceeds,5
+10194,"Andreola, Colby",0,0,95660,0,24,MA,28999,41953,,Software Engineering,10,Fully Meets,3.04
+10062,"Athwal, Sam",4,1,59365,0,19,MA,30365,41547,,Production       ,19,Fully Meets,5
+10114,"Bachiochi, Linda",0,0,47837,0,19,MA,25610,40000,,Production       ,12,Fully Meets,4.46
+10250,"Bacong, Alejandro ",2,1,50178,0,14,MA,32149,42009,,IT/IS,7,Fully Meets,5
+10252,"Baczenski, Rachael  ",1,0,54670,1,19,MA,27041,40553,42747,Production       ,14,Fully Meets,4.2
+10242,"Barbara, Thomas",1,1,47211,1,19,MA,27081,41001,42632,Production       ,20,Fully Meets,4.2
+10012,"Barbossa, Hector",2,1,92328,0,9,TX,32328,41953,,IT/IS,4,Exceeds,4.28
+10265,"Barone, Francesco  A",0,1,58709,0,19,MA,30517,40959,,Production       ,18,Fully Meets,4.6
+10066,"Barton, Nader",2,1,52505,1,19,MA,28321,41176,42831,Production       ,22,Fully Meets,5
+10061,"Bates, Norman",0,1,57834,1,19,MA,29877,40595,42951,Production       ,18,Fully Meets,5
+10023,"Beak, Kimberly  ",1,0,70131,0,20,MA,24214,42572,,Production       ,18,Exceeds,4.4
+10055,"Beatrice, Courtney ",0,0,59026,0,19,MA,25868,40637,,Production       ,16,Fully Meets,5
+10245,"Becker, Renee",0,0,110000,1,8,MA,31506,41827,42259,IT/IS,4,Fully Meets,4.5
+10277,"Becker, Scott",0,1,53250,0,19,MA,28951,41463,,Production       ,40,Fully Meets,4.2
+10046,"Bernstein, Sean",0,1,51044,0,19,MA,25924,41001,,Production       ,11,Fully Meets,5
+10226,"Biden, Lowan  M",2,0,64919,0,19,MA,21546,41505,,Production       ,19,Fully Meets,4.2
+10003,"Billis, Helen",1,0,62910,0,19,MA,32752,41827,,Production       ,12,Exceeds,5
+10294,"Blount, Dianna",0,0,66441,0,20,MA,33137,40637,,Production       ,22,Needs Improvement,2
+10267,"Bondwell, Betsy",0,0,57815,1,20,MA,24488,40553,41733,Production       ,16,Fully Meets,4.8
+10199,"Booth, Frank",0,1,103613,1,30,CT,23588,41687,42419,IT/IS,4,Fully Meets,3.5
+10081,"Boutwell, Bonalyn",1,0,106367,0,26,MA,31871,42051,,Admin Offices,3,Fully Meets,5
+10175,"Bozzi, Charles",0,1,74312,1,18,MA,25637,41547,41858,Production       ,2,Fully Meets,3.39
+10177,"Brill, Donna",1,0,53492,1,19,MA,33109,41001,41440,Production       ,14,Fully Meets,3.35
+10238,"Brown, Mia",1,0,63000,0,1,MA,32105,39748,,Admin Offices,1,Fully Meets,4.5
+10184,"Buccheri, Joseph  ",0,1,65288,0,20,MA,30525,41911,,Production       ,40,Fully Meets,3.19
+10203,"Bugali, Josephine ",3,0,64375,0,19,MA,25506,41589,,Production       ,20,Fully Meets,3.5
+10188,"Bunbury, Jessica",1,0,74326,1,3,VA,23529,40770,41853,Sales,17,Fully Meets,3.14
+10107,"Burke, Joelle",0,0,63763,0,20,MA,29282,40973,,Production       ,11,Fully Meets,4.51
+10181,"Burkett, Benjamin ",1,1,62162,0,20,MA,28356,40637,,Production       ,19,Fully Meets,3.25
+10150,"Cady, Max ",0,1,77692,0,25,MA,24433,40770,,Software Engineering,5,Fully Meets,3.84
+10001,"Candie, Calvin",0,1,72640,0,18,MA,30537,42397,,Production       ,2,Exceeds,5
+10085,"Carabbio, Judith",0,0,93396,0,24,MA,31872,41589,,Software Engineering,10,Fully Meets,4.96
+10115,"Carey, Michael  ",0,1,52846,0,19,MA,30349,41729,,Production       ,18,Fully Meets,4.43
+10082,"Carr, Claudia  N",0,0,100031,0,27,MA,31569,42551,,IT/IS,4,Fully Meets,5
+10040,"Carter, Michelle ",0,0,71860,0,3,VT,23146,41869,,Sales,17,Fully Meets,5
+10067,"Chace, Beatrice ",0,0,61656,0,19,MA,18630,41911,,Production       ,22,Fully Meets,5
+10108,"Champaigne, Brian",1,1,110929,0,5,MA,26338,42619,,IT/IS,5,Fully Meets,4.5
+10210,"Chan, Lin",0,0,54237,0,19,MA,28898,41771,,Production       ,16,Fully Meets,3.3
+10154,"Chang, Donovan  E",0,1,60380,0,19,MA,30552,41463,,Production       ,40,Fully Meets,3.8
+10200,"Chigurh, Anton",0,1,66808,0,3,TX,25730,41043,,Sales,21,Fully Meets,3
+10240,"Chivukula, Enola",0,0,64786,1,19,MA,30555,40721,42323,Production       ,11,Fully Meets,4.3
+10168,"Cierpiszewski, Caroline  ",0,0,64816,0,19,MA,32294,40819,,Production       ,19,Fully Meets,3.58
+10220,"Clayton, Rick",0,1,68678,0,14,MA,31295,41157,,IT/IS,6,Fully Meets,4.7
+10275,"Cloninger, Jennifer",1,0,64066,1,20,MA,29829,40679,41281,Production       ,12,Fully Meets,4.2
+10269,"Close, Phil",1,1,59369,1,20,MA,28819,40420,40812,Production       ,14,Fully Meets,4.2
+10029,"Clukey, Elijian",1,1,50373,0,19,MA,29459,42557,,Production       ,12,Exceeds,4.1
+10261,"Cockel, James",0,1,63108,0,19,MA,28376,41463,,Production       ,14,Fully Meets,4.4
+10292,"Cole, Spencer",0,1,59144,1,19,MA,29079,40735,42636,Production       ,20,Needs Improvement,2
+10282,"Corleone, Michael",2,1,68051,0,18,MA,27745,40379,,Production       ,2,Needs Improvement,4.13
+10019,"Corleone, Vito",0,1,170500,0,10,MA,30394,39818,,Production       ,2,Exceeds,3.7
+10094,"Cornett, Lisa ",1,0,63381,0,19,MA,28215,42009,,Production       ,18,Fully Meets,4.73
+10193,"Costello, Frank",1,1,83552,0,9,MA,31650,42093,,IT/IS,4,Fully Meets,3.04
+10132,"Crimmings,   Jean",0,0,56149,0,19,MA,31877,42557,,Production       ,22,Fully Meets,4.12
+10083,"Cross, Noah",0,1,92329,0,28,CT,23994,41953,,IT/IS,7,Fully Meets,5
+10099,"Daneault, Lynn",0,0,65729,0,21,VT,32982,41764,,Sales,15,Fully Meets,4.62
+10212,"Daniele, Ann  ",1,0,85028,0,28,CT,19011,41953,,IT/IS,7,Fully Meets,3.1
+10056,"Darson, Jene'ya ",1,0,57583,0,19,MA,28799,41092,,Production       ,16,Fully Meets,5
+10143,"Davis, Daniel",0,1,56294,0,20,MA,29112,40854,,Production       ,20,Fully Meets,3.96
+10311,"Dee, Randy",1,1,56991,0,19,MA,32248,43290,,Production       ,12,Fully Meets,4.3
+10070,"DeGweck,  James",1,1,55722,1,19,MA,28429,40679,42529,Production       ,39,Fully Meets,5
+10155,"Del Bosque, Keyla",0,0,101199,0,24,MA,29041,40917,,Software Engineering,10,Fully Meets,3.79
+10306,"Delarge, Alex",0,1,61568,0,3,AL,27700,41911,,Sales,17,PIP,1.93
+10100,"Demita, Carla",3,0,58275,1,20,MA,18684,40637,42312,Production       ,18,Fully Meets,4.62
+10310,"Desimone, Carl ",1,1,53189,0,19,MA,24581,41827,,Production       ,11,PIP,1.12
+10197,"DeVito, Tommy",0,1,96820,0,4,MA,30563,42781,,IT/IS,13,Fully Meets,3.01
+10276,"Dickinson, Geoff ",0,1,51259,0,19,MA,30270,41771,,Production       ,19,Fully Meets,4.3
+10304,"Dietrich, Jenna  ",0,0,59231,0,3,WA,31911,40959,,Sales,17,PIP,2.3
+10284,"DiNocco, Lily ",1,0,61584,0,19,MA,28826,41281,,Production       ,12,Needs Improvement,3.88
+10207,"Dobrin, Denisa  S",0,0,46335,0,19,MA,31692,41001,,Production       ,14,Fully Meets,3.4
+10133,"Dolan, Linda",1,0,70621,0,14,MA,32342,42009,,IT/IS,7,Fully Meets,4.11
+10028,"Dougall, Eric",0,1,138888,0,13,MA,25758,41644,,IT/IS,5,Exceeds,4.3
+10006,"Driver, Elle",0,0,74241,0,3,CA,32455,40553,,Sales,21,Exceeds,4.77
+10105,"Dunn, Amy  ",0,0,75188,0,18,MA,26996,41900,,Production       ,2,Fully Meets,4.52
+10211,"Dunne, Amy",1,0,62514,0,19,MA,26930,40294,,Production       ,19,Fully Meets,2.9
+10064,"Eaton, Marianne",1,0,60070,1,19,MA,33486,40637,42892,Production       ,20,Fully Meets,5
+10247,"Engdahl, Jean",0,1,48888,0,19,MA,27180,41953,,Production       ,18,Fully Meets,4.7
+10235,"England, Rex",1,1,54285,0,19,MA,28727,41729,,Production       ,18,Fully Meets,4.2
+10299,"Erilus, Angela",3,0,56847,0,20,MA,32745,41827,,Production       ,22,PIP,3
+10280,"Estremera, Miguel",0,1,60340,1,19,MA,30561,41001,43370,Production       ,22,Needs Improvement,5
+10296,"Evensen, April",0,0,59124,1,19,MA,32634,41687,43156,Production       ,16,Needs Improvement,2.3
+10290,"Exantus, Susan",1,0,99280,1,24,MA,31912,40665,41430,Software Engineering,10,Needs Improvement,2.1
+10263,"Faller, Megan ",1,0,71776,0,20,MA,28755,41827,,Production       ,16,Fully Meets,4.4
+10136,"Fancett, Nicole",0,0,65902,0,20,MA,32047,41687,,Production       ,40,Fully Meets,4
+10189,"Ferguson, Susan",1,0,57748,1,19,MA,20193,40854,42507,Production       ,39,Fully Meets,3.13
+10308,"Fernandes, Nilson  ",1,1,64057,0,19,MA,32799,42135,,Production       ,11,PIP,1.56
+10309,"Fett, Boba",0,1,53366,0,15,MA,31946,42093,,IT/IS,7,PIP,1.2
+10049,"Fidelia,  Libby",1,0,58530,0,19,MA,29661,40917,,Production       ,12,Fully Meets,5
+10093,"Fitzpatrick, Michael  J",0,1,72609,1,20,MA,29860,40679,41449,Production       ,11,Fully Meets,4.76
+10163,"Foreman, Tanya",1,0,55965,1,20,MA,30628,40637,41283,Production       ,19,Fully Meets,3.66
+10305,"Forrest, Alex",1,1,70187,1,3,MA,27582,41911,43331,Sales,21,PIP,2
+10015,"Foss, Jason",0,1,178000,0,12,MA,29407,40648,,IT/IS,5,Exceeds,5
+10080,"Foster-Baker, Amy",1,0,99351,0,26,MA,28961,39818,,Admin Offices,9,Fully Meets,5
+10258,"Fraval, Maruk ",0,1,67251,0,3,CT,23251,40792,,Sales,21,Fully Meets,4.3
+10273,"Galia, Lisa",0,0,65707,0,14,CT,25025,40299,,IT/IS,6,Fully Meets,4.7
+10111,"Garcia, Raul",0,1,52249,0,19,MA,31305,42093,,Production       ,14,Fully Meets,4.5
+10257,"Gaul, Barbara",0,0,53171,0,19,MA,30652,40679,,Production       ,18,Fully Meets,4.2
+10159,"Gentry, Mildred",1,0,51337,0,19,MA,33147,42093,,Production       ,22,Fully Meets,3.73
+10122,"Gerke, Melisa",2,0,51505,1,19,MA,25703,40854,42689,Production       ,16,Fully Meets,4.24
+10142,"Gill, Whitney  ",4,0,59370,1,3,OH,26124,41827,42252,Sales,17,Fully Meets,3.97
+10283,"Gilles, Alex",1,1,54933,1,19,MA,27250,41001,42180,Production       ,39,Needs Improvement,3.97
+10018,"Girifalco, Evelyn",0,0,57815,0,19,MA,29349,41911,,Production       ,11,Exceeds,3.9
+10255,"Givens, Myriam",0,0,61555,0,3,IN,32773,42051,,Sales,21,Fully Meets,4.5
+10246,"Goble, Taisha",0,0,114800,1,8,MA,26229,42051,42078,IT/IS,4,Fully Meets,4.6
+10228,"Goeth, Amon",1,1,74679,0,14,MA,32836,42093,,IT/IS,7,Fully Meets,4.3
+10243,"Gold, Shenice  ",0,0,53018,0,19,MA,33773,41589,,Production       ,19,Fully Meets,4.3
+10031,"Gonzalez, Cayo",2,1,59892,0,19,MA,25475,40735,,Production       ,12,Exceeds,4.5
+10300,"Gonzalez, Juan",1,1,68898,1,20,MA,23662,40294,40693,Production       ,12,PIP,3
+10101,"Gonzalez, Maria",3,0,61242,0,14,MA,29692,42009,,IT/IS,7,Fully Meets,4.61
+10237,"Good, Susan",1,0,66825,0,20,MA,31557,41771,,Production       ,14,Fully Meets,4.6
+10051,"Gordon, David",1,1,48285,0,19,MA,28996,41092,,Production       ,14,Fully Meets,5
+10218,"Gosciminski, Phylicia  ",3,0,66149,0,20,MA,30658,41547,,Production       ,20,Fully Meets,4.4
+10256,"Goyal, Roxana",1,0,49256,0,19,MA,27311,41505,,Production       ,20,Fully Meets,4.1
+10098,"Gray, Elijiah  ",2,1,62957,0,18,MA,29778,42157,,Production       ,2,Fully Meets,4.63
+10059,"Gross, Paula",2,0,63813,1,19,MA,30457,40595,41650,Production       ,18,Fully Meets,5
+10234,"Gruber, Hans",1,1,99020,0,4,MA,32689,42845,,IT/IS,13,Fully Meets,4.2
+10109,"Guilianno, Mike",0,1,71707,1,3,TN,25243,40975,41943,Sales,17,Fully Meets,4.5
+10125,"Handschiegl, Joanne",1,0,54828,0,19,MA,28207,40875,,Production       ,22,Fully Meets,4.2
+10074,"Hankard, Earnest",0,1,64246,0,20,MA,32365,41589,,Production       ,18,Fully Meets,5
+10097,"Harrington, Christie ",0,0,52177,1,19,MA,19224,40917,42353,Production       ,39,Fully Meets,4.64
+10007,"Harrison, Kara",1,0,62065,0,19,MA,27151,41771,,Production       ,11,Exceeds,4.76
+10129,"Heitzman, Anthony",0,1,46998,0,19,MA,30685,41134,,Production       ,19,Fully Meets,4.17
+10075,"Hendrickson, Trina",0,0,68099,1,20,MA,26538,40553,41443,Production       ,18,Fully Meets,5
+10167,"Hitchcock, Alfred",1,1,70545,0,3,NH,32400,41869,,Sales,17,Fully Meets,3.6
+10195,"Homberger, Adrienne  J",1,0,63478,1,20,MA,30728,40770,41006,Production       ,30,Fully Meets,3.03
+10112,"Horton, Jayne",0,0,97999,0,8,MA,30733,42093,,IT/IS,4,Fully Meets,4.48
+10272,"Houlihan, Debra",1,0,180000,0,11,RI,24183,41764,,Sales,2,Fully Meets,4.5
+10182,"Howard, Estelle",1,0,49920,1,2,MA,31306,42051,42109,Admin Offices,1,Fully Meets,3.24
+10248,"Hudson, Jane",0,0,55425,0,19,MA,31573,40959,,Production       ,19,Fully Meets,4.8
+10201,"Hunts, Julissa",0,0,69340,0,20,MA,30752,42527,,Production       ,16,Fully Meets,3
+10214,"Hutter, Rosalie",3,0,64995,0,20,MA,33731,42160,,Production       ,40,Fully Meets,4.5
+10160,"Huynh, Ming",2,0,68182,1,20,MA,28025,40595,41365,Production       ,11,Fully Meets,3.72
+10289,"Immediato, Walter",1,1,83082,1,18,MA,28079,40595,41176,Production       ,2,Needs Improvement,2.34
+10139,"Ivey, Rose ",0,0,51908,0,19,MA,33266,41505,,Production       ,12,Fully Meets,3.99
+10227,"Jackson, Maryellen",0,0,61242,0,19,MA,26553,41218,,Production       ,14,Fully Meets,4.1
+10236,"Jacobi, Hannah  ",2,0,45069,0,19,MA,24188,41547,,Production       ,20,Fully Meets,4.3
+10009,"Jeannite, Tayana",2,0,60724,0,20,MA,31722,40729,,Production       ,19,Exceeds,4.6
+10060,"Jhaveri, Sneha  ",3,0,60436,0,19,MA,23480,41645,,Production       ,18,Fully Meets,5
+10034,"Johnson, George",1,1,46837,1,19,MA,21781,40854,43219,Production       ,22,Exceeds,4.7
+10156,"Johnson, Noelle ",1,0,105700,0,8,MA,31723,42009,,IT/IS,4,Fully Meets,3.75
+10036,"Johnston, Yen",0,0,63322,0,20,MA,25454,41827,,Production       ,12,Exceeds,4.3
+10138,"Jung, Judy  ",1,0,61154,1,19,MA,31519,40553,42461,Production       ,16,Fully Meets,4
+10244,"Kampew, Donysha",0,0,68999,1,21,PA,32823,40854,41753,Sales,15,Fully Meets,4.5
+10192,"Keatts, Kramer ",0,1,50482,0,19,MA,27778,41547,,Production       ,22,Fully Meets,3.07
+10231,"Khemmich, Bartholemew",0,1,65310,0,3,CO,29186,41505,,Sales,21,Fully Meets,4.3
+10089,"King, Janet",1,0,250000,0,16,MA,19988,41092,,Executive Office,9,Fully Meets,4.83
+10166,"Kinsella, Kathleen  ",1,0,54005,1,19,MA,27006,40812,42159,Production       ,39,Fully Meets,3.6
+10170,"Kirill, Alexandra  ",1,0,45433,1,19,MA,25849,40812,41648,Production       ,11,Fully Meets,3.49
+10208,"Knapp, Bradley  J",0,1,46654,0,19,MA,28439,41687,,Production       ,19,Fully Meets,3.1
+10176,"Kretschmer, John",1,1,63973,0,19,MA,29253,40553,,Production       ,12,Fully Meets,3.38
+10165,"Kreuger, Freddy",0,1,71339,0,3,NY,25258,40609,,Sales,17,Fully Meets,3.65
+10113,"Lajiri,  Jyoti",1,1,93206,0,28,MA,31525,41953,,IT/IS,7,Fully Meets,4.46
+10092,"Landa, Hans",1,1,82758,1,18,MA,26481,40553,42350,Production       ,2,Fully Meets,4.78
+10106,"Langford, Lindsey",2,0,66074,1,20,MA,29061,41281,41729,Production       ,14,Fully Meets,4.52
+10052,"Langton, Enrico",1,1,46120,0,19,MA,31755,41099,,Production       ,14,Fully Meets,5
+10038,"LaRotonda, William  ",2,1,64520,0,1,MA,30798,41645,,Admin Offices,1,Fully Meets,5
+10249,"Latif, Mohammed",1,1,61962,1,20,MA,30811,41001,41379,Production       ,20,Fully Meets,4.9
+10232,"Le, Binh",0,0,81584,0,22,MA,31942,42645,,IT/IS,13,Fully Meets,4.1
+10087,"Leach, Dallas",0,0,63676,1,19,MA,28872,40812,43331,Production       ,20,Fully Meets,4.88
+10134,"LeBlanc, Brandon  R",1,1,93046,0,23,MA,30843,42374,,Admin Offices,2,Fully Meets,4.1
+10251,"Lecter, Hannibal",1,1,64738,0,19,MA,30196,41043,,Production       ,16,Fully Meets,4.1
+10103,"Leruth, Giovanni",3,1,70468,0,3,UT,32504,41029,,Sales,17,Fully Meets,4.53
+10017,"Liebig, Ketsia",1,0,77915,0,18,MA,29885,41547,,Production       ,2,Exceeds,4.1
+10186,"Linares, Marilyn ",1,0,52624,1,19,MA,29671,40729,43369,Production       ,22,Fully Meets,3.18
+10137,"Linden, Mathew",1,1,63450,0,20,MA,28933,41463,,Production       ,18,Fully Meets,4
+10008,"Lindsay, Leonara ",0,0,51777,0,14,CT,32421,40564,,IT/IS,6,Exceeds,4.64
+10096,"Lundy, Susan",4,0,67237,1,20,MA,28120,41463,42628,Production       ,22,Fully Meets,4.65
+10035,"Lunquist, Lisa",0,0,73330,0,20,MA,30038,41505,,Production       ,16,Exceeds,4.2
+10057,"Lydon, Allison",1,0,52057,0,19,MA,27689,42051,,Production       ,16,Fully Meets,5
+10004,"Lynch, Lindsay",0,0,47434,1,19,MA,26709,40854,42322,Production       ,39,Exceeds,5
+10191,"MacLennan, Samuel",4,1,52788,1,19,MA,26612,41176,43004,Production       ,11,Fully Meets,3.08
+10219,"Mahoney, Lauren  ",0,0,45395,0,19,MA,31600,41645,,Production       ,19,Fully Meets,4.6
+10077,"Manchester, Robyn",1,0,62385,0,20,MA,27997,42501,,Production       ,40,Fully Meets,5
+10073,"Mancuso, Karen",1,0,68407,1,20,MA,31756,40729,41140,Production       ,11,Fully Meets,5
+10279,"Mangal, Debbie",1,0,61349,0,19,MA,27340,41589,,Production       ,12,Fully Meets,4.1
+10110,"Martin, Sandra",0,0,105688,0,24,MA,32088,41589,,Software Engineering,10,Fully Meets,4.5
+10053,"Maurice, Shana",1,0,54132,0,19,MA,28451,40694,,Production       ,14,Fully Meets,5
+10076,"Carthy, B'rigit",0,0,55315,0,20,MA,31918,42093,,Production       ,19,Fully Meets,5
+10145,"Mckenna, Sandy",1,0,62810,0,19,MA,31784,41281,,Production       ,20,Fully Meets,3.93
+10202,"McKinzie, Jac",1,1,63291,0,3,TX,30864,42557,,Sales,21,Fully Meets,3.4
+10128,"Meads, Elizabeth",0,0,62659,1,19,MA,24988,41001,42685,Production       ,18,Fully Meets,4.18
+10068,"Medeiros, Jennifer",0,0,55688,0,19,MA,28025,42093,,Production       ,22,Fully Meets,5
+10116,"Miller, Brannon",0,1,83667,0,18,MA,29808,41137,,Production       ,2,Fully Meets,4.37
+10298,"Miller, Ned",0,1,55800,1,20,MA,31227,40770,41886,Production       ,12,PIP,3
+10213,"Monkfish, Erasumus",1,1,58207,0,20,MA,33833,40854,,Production       ,14,Fully Meets,3.7
+10288,"Monroe, Peter",1,1,157000,0,13,MA,31690,40954,,IT/IS,5,Needs Improvement,2.39
+10025,"Monterro, Luisa",0,0,72460,0,20,MA,25682,41407,,Production       ,20,Exceeds,4.7
+10223,"Moran, Patrick",0,1,72106,0,20,MA,28097,40917,,Production       ,18,Fully Meets,4.1
+10151,"Morway, Tanya",1,0,52599,0,15,MA,28949,42051,,IT/IS,7,Fully Meets,3.81
+10254,"Motlagh,  Dawn",2,0,63430,0,19,MA,30870,41365,,Production       ,16,Fully Meets,4.4
+10120,"Moumanil, Maliki ",3,1,74417,0,20,MA,27364,41407,,Production       ,22,Fully Meets,4.29
+10216,"Myers, Michael",0,1,57575,0,19,MA,29329,41463,,Production       ,20,Fully Meets,4.1
+10079,"Navathe, Kurt",0,1,87921,0,22,MA,25683,42776,,IT/IS,13,Fully Meets,5
+10215,"Ndzi, Colombui",0,1,50470,1,19,MA,32630,40812,41733,Production       ,39,Fully Meets,4.3
+10185,"Ndzi, Horia",1,1,46664,1,19,MA,30403,41365,42515,Production       ,11,Fully Meets,3.18
+10063,"Newman, Richard ",1,1,48495,0,19,MA,28223,41771,,Production       ,19,Fully Meets,5
+10037,"Ngodup, Shari ",3,0,52984,0,19,MA,24626,41365,,Production       ,12,Exceeds,4
+10042,"Nguyen, Dheepa",0,0,63695,0,3,GA,32598,41463,,Sales,21,Fully Meets,5
+10206,"Nguyen, Lei-Ming",0,0,62061,0,19,MA,30870,41463,,Production       ,14,Fully Meets,3.6
+10104,"Nowlan, Kristie",0,0,66738,0,20,MA,31374,41953,,Production       ,16,Fully Meets,4.53
+10303,"O'hare, Lynn",0,0,52674,1,19,MA,29494,41729,43221,Production       ,20,PIP,2.33
+10078,"Oliver, Brooke ",1,0,71966,1,20,MA,19035,41043,41505,Production       ,39,Fully Meets,5
+10121,"Onque, Jasmine",0,0,63051,0,3,FL,33004,41547,,Sales,21,Fully Meets,4.28
+10021,"Osturnka, Adeel",1,1,47414,0,19,MA,28105,41547,,Production       ,18,Exceeds,5
+10281,"Owad, Clinton",0,1,53060,0,19,MA,29183,41687,,Production       ,22,Needs Improvement,4.25
+10041,"Ozark, Travis",0,1,68829,0,3,NC,30090,42009,,Sales,17,Fully Meets,5
+10148,"Panjwani, Nina",1,0,63515,1,19,MA,28976,40581,41651,Production       ,16,Fully Meets,3.89
+10005,"Patronick, Lucas",0,1,108987,1,24,MA,28906,40854,42254,Software Engineering,10,Exceeds,5
+10259,"Pearson, Randall",1,1,93093,1,9,MA,30930,41974,42491,IT/IS,4,Fully Meets,4.7
+10286,"Smith, Martin",0,1,53564,1,19,MA,32219,40553,43097,Production       ,39,Needs Improvement,3.54
+10297,"Pelletier, Ermine",1,0,60270,1,20,MA,32707,40729,42262,Production       ,11,Needs Improvement,2.4
+10171,"Perry, Shakira",0,0,45998,1,19,MA,31613,40679,42302,Production       ,11,Fully Meets,3.45
+10032,"Peters, Lauren",1,0,57954,1,20,MA,31641,40679,41309,Production       ,19,Exceeds,4.2
+10130,"Peterson, Ebonee  ",1,0,74669,1,18,MA,28254,40476,42508,Production       ,2,Fully Meets,4.16
+10217,"Petingill, Shana  ",1,0,74226,0,20,MA,28924,41001,,Production       ,12,Fully Meets,4.3
+10016,"Petrowsky, Thelma",1,0,93554,0,9,MA,30941,41953,,IT/IS,4,Exceeds,4.6
+10050,"Pham, Hong",1,1,64724,1,19,MA,32208,40729,41243,Production       ,12,Fully Meets,5
+10164,"Pitt, Brad ",0,1,47001,0,19,MA,29913,39391,,Production       ,14,Fully Meets,3.66
+10124,"Potts, Xana",1,0,61844,0,3,KY,32384,40917,,Sales,21,Fully Meets,4.2
+10187,"Power, Morissa",2,0,46799,1,19,MA,30970,40679,43255,Production       ,20,Fully Meets,3.17
+10225,"Punjabhi, Louis  ",0,1,59472,0,19,MA,22451,41645,,Production       ,18,Fully Meets,4.8
+10262,"Purinton, Janine",2,0,46430,1,19,MA,25833,41176,41443,Production       ,20,Fully Meets,4.5
+10131,"Quinn, Sean",1,1,83363,1,23,MA,30992,40595,42231,Software Engineering,2,Fully Meets,4.15
+10239,"Rachael, Maggie",1,0,95920,0,4,MA,29353,42645,,IT/IS,13,Fully Meets,4.4
+10152,"Rarrick, Quinn",2,1,61729,1,19,MA,31047,40812,43197,Production       ,22,Fully Meets,3.8
+10140,"Ren, Kylo",1,1,61809,0,3,ID,20009,41771,,Sales,17,Fully Meets,3.98
+10058,"Rhoads, Thomas",2,1,45115,1,19,MA,30154,40679,42384,Production       ,16,Fully Meets,5
+10011,"Rivera, Haley  ",1,0,46738,0,19,MA,26676,40875,,Production       ,40,Exceeds,4.36
+10230,"Roberson, May",2,0,64971,1,20,MA,29834,40812,40838,Production       ,14,Fully Meets,4.5
+10224,"Robertson, Peter",1,1,55578,1,20,MA,26483,40729,40947,Production       ,20,Fully Meets,4.2
+10047,"Robinson, Alain  ",1,1,50428,1,19,MA,27036,40553,42395,Production       ,11,Fully Meets,5
+10285,"Robinson, Cherly",1,0,61422,1,19,MA,31054,40553,42507,Production       ,19,Needs Improvement,3.6
+10020,"Robinson, Elias",4,1,63353,0,19,MA,31075,41463,,Production       ,12,Exceeds,3.6
+10162,"Roby, Lori ",1,0,89883,0,9,MA,29870,42051,,IT/IS,4,Fully Meets,3.69
+10149,"Roehrich, Bianca",0,0,120000,1,29,MA,26811,42009,43414,IT/IS,4,Fully Meets,3.88
+10086,"Roper, Katie",0,0,150290,0,7,MA,26624,42742,,IT/IS,13,Fully Meets,4.94
+10054,"Rose, Ashley  ",3,0,60627,0,19,MA,27368,41645,,Production       ,14,Fully Meets,5
+10065,"Rossetti, Bruno",0,1,53180,1,19,MA,31854,40637,43325,Production       ,20,Fully Meets,5
+10198,"Roup,Simon",0,1,140920,0,13,MA,26759,41294,,IT/IS,5,Fully Meets,3.6
+10222,"Ruiz, Ricardo",2,1,148999,1,13,MA,23380,40917,42312,IT/IS,5,Fully Meets,4.3
+10126,"Saada, Adell",1,0,86214,0,24,MA,31617,41218,,Software Engineering,10,Fully Meets,4.2
+10295,"Saar-Beckles, Melinda",0,0,47750,0,19,MA,24995,42555,,Production       ,18,Needs Improvement,2.6
+10260,"Sadki, Nore  ",0,1,46428,1,19,MA,27384,39818,43311,Production       ,22,Fully Meets,4.6
+10233,"Sahoo, Adil",1,1,57975,0,20,MA,31528,40420,,Production       ,18,Fully Meets,4.1
+10229,"Salter, Jason",2,1,88527,1,9,MA,32128,42009,42308,IT/IS,4,Fully Meets,4.2
+10169,"Sander, Kamrin",1,0,56147,0,19,MA,32334,41911,,Production       ,16,Fully Meets,3.51
+10071,"Sewkumar, Nori",0,0,50923,0,19,MA,27463,41547,,Production       ,40,Fully Meets,5
+10179,"Shepard, Anita ",1,0,50750,0,15,MA,29690,41912,,IT/IS,7,Fully Meets,3.31
+10091,"Shields, Seffi",1,0,52087,0,19,MA,31283,41505,,Production       ,11,Fully Meets,4.81
+10178,"Simard, Kramer",1,1,87826,0,9,MA,25607,42009,,IT/IS,4,Fully Meets,3.32
+10039,"Singh, Nan ",0,0,51920,0,2,MA,32282,42125,,Admin Offices,1,Fully Meets,5
+10095,"Sloan, Constance",0,0,63878,1,20,MA,32106,40112,42102,Production       ,22,Fully Meets,4.68
+10027,"Smith, Joe",0,1,60656,0,20,MA,23314,41911,,Production       ,16,Exceeds,4.3
+10291,"Smith, John",2,1,72992,0,21,MA,30910,41777,,Sales,15,Needs Improvement,2.4
+10153,"Smith, Leigh Ann",1,0,55000,1,2,MA,31942,40812,41542,Admin Offices,1,Fully Meets,3.8
+10157,"Smith, Sade",0,0,58939,0,19,MA,23775,41589,,Production       ,19,Fully Meets,3.73
+10119,"Soto, Julia ",1,0,66593,0,14,MA,26735,40704,,IT/IS,6,Fully Meets,4.3
+10180,"Soze, Keyser",1,1,87565,0,28,MA,30356,42551,,IT/IS,7,Fully Meets,3.27
+10302,"Sparks, Taylor  ",1,0,64021,0,19,MA,25039,40959,,Production       ,12,PIP,2.4
+10090,"Spirea, Kelley",1,0,65714,0,18,MA,27667,41184,,Production       ,2,Fully Meets,4.83
+10030,"Squatrito, Kristen",2,0,62425,1,19,MA,26749,41407,42184,Production       ,14,Exceeds,4.1
+10278,"Stanford,Barbara  M",2,0,47961,0,19,MA,30188,40553,,Production       ,20,Fully Meets,4.1
+10307,"Stansfield, Norman",1,1,58273,0,3,NV,27158,41771,,Sales,21,PIP,1.81
+10147,"Steans, Tyrone  ",0,1,63003,0,1,MA,31656,41911,,Admin Offices,1,Fully Meets,3.9
+10266,"Stoica, Rick",1,1,61355,0,19,MA,31120,41687,,Production       ,18,Fully Meets,4.7
+10241,"Strong, Caitrin",1,0,60120,0,3,MT,32640,40448,,Sales,17,Fully Meets,4.1
+10158,"Sullivan, Kissy ",1,0,63682,0,18,MA,28577,39821,,Production       ,2,Fully Meets,3.73
+10117,"Sullivan, Timothy",1,1,63025,0,19,MA,30231,42009,,Production       ,22,Fully Meets,4.36
+10209,"Sutwell, Barbara",0,0,59238,0,19,MA,25065,41043,,Production       ,16,Fully Meets,3.4
+10024,"Szabo, Andrew",0,1,92989,0,24,MA,30442,41827,,Software Engineering,10,Exceeds,4.5
+10173,"Tannen, Biff",1,1,90100,0,4,MA,32074,42845,,IT/IS,13,Fully Meets,3.4
+10221,"Tavares, Desiree  ",1,0,60754,1,19,MA,27487,39930,41365,Production       ,39,Fully Meets,4.5
+10146,"Tejeda, Lenora ",1,0,72202,1,20,MA,19503,40679,42924,Production       ,16,Fully Meets,3.93
+10161,"Terry, Sharlene ",0,0,58370,0,3,OR,23869,41911,,Sales,21,Fully Meets,3.69
+10141,"Theamstern, Sophia",0,0,48413,1,19,MA,23871,40729,42618,Production       ,11,Fully Meets,3.98
+10268,"Thibaud, Kenneth",4,1,67176,1,20,MA,27653,39258,40420,Production       ,39,Fully Meets,4.1
+10123,"Tippett, Jeanette",2,0,56339,0,19,MA,24628,41323,,Production       ,12,Fully Meets,4.21
+10013,"Torrence, Jack",3,1,64397,0,3,ND,24852,38726,,Sales,21,Exceeds,4.1
+10287,"Trang, Mei",0,0,63025,0,19,MA,30452,41687,,Production       ,14,Needs Improvement,2.44
+10044,"Tredinnick, Neville ",1,1,75281,1,15,MA,32268,42009,42412,IT/IS,7,Fully Meets,5
+10102,"True, Edward",0,1,100416,1,24,MA,30481,41323,43205,Software Engineering,10,Fully Meets,4.6
+10270,"Trzeciak, Cybil",0,0,74813,1,20,MA,31121,40553,41822,Production       ,11,Fully Meets,4.4
+10045,"Turpin, Jumil",1,1,76029,0,15,MA,25293,42093,,IT/IS,7,Fully Meets,5
+10205,"Valentin,Jackie",1,0,57859,0,3,AZ,33381,40729,,Sales,17,Fully Meets,2.81
+10014,"Veera, Abdellah ",2,1,58523,1,19,MA,31808,41134,42405,Production       ,20,Exceeds,4.5
+10144,"Vega, Vincent",2,1,88976,0,17,MA,25121,40756,,Production       ,2,Fully Meets,3.93
+10253,"Villanueva, Noah",0,1,55875,0,3,ME,32700,40973,,Sales,17,Fully Meets,4.5
+10118,"Voldemort, Lord",1,1,113999,1,8,MA,31631,42051,42788,IT/IS,4,Fully Meets,4.33
+10022,"Volk, Colleen",1,0,49773,1,19,MA,31566,40812,42408,Production       ,18,Exceeds,4.3
+10183,"Von Massenbach, Anna",0,0,62068,0,19,MA,31143,42190,,Production       ,22,Fully Meets,3.21
+10190,"Walker, Roger",0,1,66541,0,20,MA,27800,41869,,Production       ,19,Fully Meets,3.11
+10274,"Wallace, Courtney  E",1,0,80512,1,18,MA,20407,40812,40910,Production       ,2,Fully Meets,4.5
+10293,"Wallace, Theresa",0,0,50274,1,19,MA,29435,41134,42248,Production       ,16,Needs Improvement,2.5
+10172,"Wang, Charlie",0,1,84903,0,22,MA,29775,42781,,IT/IS,13,Fully Meets,3.42
+10127,"Warfield, Sarah",4,0,107226,0,28,MA,28612,42093,,IT/IS,7,Fully Meets,4.2
+10072,"Whittier, Scott",0,1,58371,1,19,MA,31921,40553,41774,Production       ,39,Fully Meets,5
+10048,"Wilber, Barry",1,1,55140,1,19,MA,23994,40679,42254,Production       ,11,Fully Meets,5
+10204,"Wilkes, Annie",2,0,58062,1,19,MA,30527,40553,41043,Production       ,19,Fully Meets,3.6
+10264,"Williams, Jacquelyn  ",0,0,59728,1,19,MA,25478,40917,42182,Production       ,19,Fully Meets,4.3
+10033,"Winthrop, Jordan  ",0,1,70507,1,20,MA,21496,41281,42421,Production       ,12,Exceeds,5
+10174,"Wolk, Hang  T",0,0,60446,0,20,MA,31157,41911,,Production       ,14,Fully Meets,3.4
+10135,"Woodson, Jason",0,1,65893,0,20,MA,31178,41827,,Production       ,20,Fully Meets,4.07
+10301,"Ybarra, Catherine ",0,0,48513,1,19,MA,30075,39693,42276,Production       ,12,PIP,3.2
+10010,"Zamora, Jennifer",0,0,220450,0,6,MA,29097,40278,,IT/IS,2,Exceeds,4.6
+10043,"Zhou, Julia",0,0,89292,0,9,MA,28910,42093,,IT/IS,4,Fully Meets,5
+10271,"Zima, Colleen",4,0,45046,0,19,MA,28719,41911,,Production       ,14,Fully Meets,4.5
